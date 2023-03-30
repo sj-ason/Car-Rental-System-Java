@@ -1,0 +1,5 @@
+car 123456789 customer1
+car 321456987 customer1
+lorry 849327498 jason
+lorry 231456897 customer1
+lorry 321654987 customer1
